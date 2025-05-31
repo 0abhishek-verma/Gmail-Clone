@@ -51,7 +51,6 @@ Gmail-Clone/
 
    ```bash
    git clone https://github.com/0abhishek-verma/Gmail-Clone.git
-````
 
 2. Navigate into the project directory:
 
