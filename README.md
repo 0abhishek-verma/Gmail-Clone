@@ -1,5 +1,4 @@
 
-```markdown
 # 📧 Gmail Clone
 
 This is a simple **Gmail UI clone** built using **HTML**, **CSS**, and **JavaScript**. The project is designed to replicate the layout and basic design of the Gmail inbox interface, focusing on frontend design skills and responsive layout structure.
